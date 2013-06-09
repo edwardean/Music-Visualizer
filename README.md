@@ -9,7 +9,7 @@
 * [SinaWeibo](http://weibo.com/u/2715944641?wvr=5&)<br />
 
 ### 截圖
-
+![ ](https://github.com/edwardean/Music-Visualizer/blob/master/iPodVisualizer/bg.png?raw=true)
 
 
 
